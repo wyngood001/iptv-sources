@@ -474,5 +474,16 @@
 | 468 | Fuping TV-1 | IPv4 直链 | <http://124.47.34.189:80/wh7f454c46tw749339647_705237419/PLTV/88888888/224/3221225905/index.m3u8?icpid=88888888&RTS=1640046896&from=1&hms_devid=203> |
 | 469 | Fuping TV-2 | IPv4 直链 | <http://124.47.34.188:80/wh7f454c46tw1412774635_659925561/PLTV/88888888/224/3221225906/index.m3u8?icpid=88888888&RTS=1640099099&from=1&hms_devid=203> |
 | 470 | Fusung News TV | 吉林广播电视台 | <http://stream8.jlntv.cn/fs/sd/live.m3u8> |
+| 471 | Lasa TV | IPv4 直链 | <http://220.182.45.198:20088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 472 | Xizang TV Tibetan | IPv4 直链 | <http://220.182.45.198:20088/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 473 | Nei Monggol TV | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.7.93:5140> |
+| 474 | Xinjiang TV 12 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.3.185:5140> |
+| 475 | Xinjiang TV 9 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.7.153:5140> |
+| 476 | Xinjiang TV 8 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.3.181:5140> |
+| 477 | Xinjiang TV 5 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.7.149:5140> |
+| 478 | Xinjiang TV 3 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.7.147:5140> |
+| 479 | Xinjiang TV 2 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.3.175:5140> |
+| 480 | BRTV Kaku Childrens Channel [Not 24/7] | office.gofaraway.top:888 | <http://office.gofaraway.top:888/udp/238.125.2.216:5140> |
+| 481 | Sichuan Kangba Tibetan TV | IPv4 直链 | <http://220.182.45.198:20088/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Fri Feb 09 2024 17:19:44 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 03 2024 05:00:51 GMT+0000 (Coordinated Universal Time)**

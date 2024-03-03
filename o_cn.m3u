@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ABNChina.us" tvg-logo="https://i.imgur.com/zagVLQH.png" group-title="Religious",ABN China (720p)
-https://rtmp2.abnvideos.com/hls/abnchina.m3u8
+https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 #EXTINF:-1 tvg-id="AngelTVChinese.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Chinese (720p)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ankang TV-1 News
@@ -27,6 +27,8 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="BreadTV.cn" tvg-logo="https://i.imgur.com/UR9vEIN.png" group-title="Undefined",Bread TV面包台 (720p)
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 tvg-id="BRTVKakuChildrensChannel.cn" tvg-logo="https://i.imgur.com/t8X4wPZ.png" group-title="Kids",BRTV Kaku Childrens Channel [Not 24/7]
+http://office.gofaraway.top:888/udp/238.125.2.216:5140
 #EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="Undefined",CCTV5+
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-7d098b36-c7e5-4941-8eb0-6af0f5ad3f8d.flv
 #EXTINF:-1 tvg-id="CCTVPlus1.cn" tvg-logo="https://i.imgur.com/U8d4Is6.png" group-title="News",CCTV+ 1 (600p) [Not 24/7]
@@ -115,6 +117,10 @@ http://124.47.34.188:80/wh7f454c46tw1412774635_659925561/PLTV/88888888/224/32212
 http://stream8.jlntv.cn/fs/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",HOY资讯台
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8
+#EXTINF:-1 tvg-id="LasaTV.cn" tvg-logo="https://i.imgur.com/3p3yKKG.png" group-title="Undefined",Lasa TV
+http://220.182.45.198:20088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="NeiMonggolTV.cn" tvg-logo="https://i.imgur.com/WeugJBE.png" group-title="Undefined",Nei Monggol TV
+http://106.124.90.74:8888/udp/238.125.7.93:5140
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NewTV动画王国 (1080p)
 http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NewTV完美游戏 (1080p)
@@ -129,6 +135,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SDETV (576p)
 http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227019/index.m3u8
+#EXTINF:-1 tvg-id="SichuanKangbaTibetanTV.cn" tvg-logo="https://i.imgur.com/P9Azma6.png" group-title="Undefined",Sichuan Kangba Tibetan TV
+http://220.182.45.198:20088/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SiTV七彩戏剧 (540p) [Not 24/7]
 http://112.25.48.68/live/program/live/qcxj/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SiTV东方财经 (540p) [Not 24/7]
@@ -165,6 +173,20 @@ https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
 #EXTINF:-1 tvg-id="XingKongInternational.cn" tvg-logo="https://i.imgur.com/m8UUfDh.png" group-title="Undefined",Xing Kong International (360p)
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
+#EXTINF:-1 tvg-id="XinjiangTV2.cn" tvg-logo="https://i.imgur.com/GXFLqxx.png" group-title="Undefined",Xinjiang TV 2
+http://106.124.90.74:8888/udp/238.125.3.175:5140
+#EXTINF:-1 tvg-id="XinjiangTV3.cn" tvg-logo="https://i.imgur.com/l8S5qQB.png" group-title="Undefined",Xinjiang TV 3
+http://106.124.90.74:8888/udp/238.125.7.147:5140
+#EXTINF:-1 tvg-id="XinjiangTV5.cn" tvg-logo="https://i.imgur.com/PARupWK.png" group-title="Undefined",Xinjiang TV 5
+http://106.124.90.74:8888/udp/238.125.7.149:5140
+#EXTINF:-1 tvg-id="XinjiangTV8.cn" tvg-logo="https://i.imgur.com/JJw1Ndc.png" group-title="Undefined",Xinjiang TV 8
+http://106.124.90.74:8888/udp/238.125.3.181:5140
+#EXTINF:-1 tvg-id="XinjiangTV9.cn" tvg-logo="https://i.imgur.com/YQYumoR.png" group-title="Undefined",Xinjiang TV 9
+http://106.124.90.74:8888/udp/238.125.7.153:5140
+#EXTINF:-1 tvg-id="XinjiangTV12.cn" tvg-logo="https://i.imgur.com/ZdqKVeE.png" group-title="Undefined",Xinjiang TV 12
+http://106.124.90.74:8888/udp/238.125.3.185:5140
+#EXTINF:-1 tvg-id="XizangTVTibetan.cn" tvg-logo="https://i.imgur.com/NtvfnVV.png" group-title="Undefined",Xizang TV Tibetan
+http://220.182.45.198:20088/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ZhejiangInternationalChannel.cn" tvg-logo="https://i.imgur.com/XOL1Hph.png" group-title="Undefined",Zhejiang TV International
 https://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 tvg-id="RTRPlanetaAsia.ru" tvg-logo="https://i.imgur.com/DTtK0z7.png" group-title="General",РТР Планета Азия
