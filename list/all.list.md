@@ -2421,4 +2421,4 @@
 | 2415 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 | 2416 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/8b953c8408ad073e24ec31c62182b0144428781ad3b06d936b7fbaacc11a68bb.ctv> |
 
-Updated at **Tue Apr 16 2024 06:19:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 16 2024 08:19:10 GMT+0000 (Coordinated Universal Time)**
