@@ -1,4 +1,4 @@
-# List for **cymz6/AutoIPTV-Hotel lives**(Rollback)
+# List for **cymz6/AutoIPTV-Hotel lives**
 
 > M3U: [cymz6_lives.m3u](/cymz6_lives.m3u), TXT: [cymz6_lives.txt](/txt/cymz6_lives.txt)
 
@@ -18,4 +18,4 @@
 | 12 | 嘉佳卡通 | IPv4 直链 | <http://125.42.148.80:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 13 | 河北经济 | IPv4 直链 | <http://101.74.28.66:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Tue Aug 05 2025 14:27:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 05 2025 16:25:43 GMT+0000 (Coordinated Universal Time)**
