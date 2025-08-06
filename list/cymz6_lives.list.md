@@ -1,4 +1,4 @@
-# List for **cymz6/AutoIPTV-Hotel lives**(Rollback)
+# List for **cymz6/AutoIPTV-Hotel lives**
 
 > M3U: [cymz6_lives.m3u](/cymz6_lives.m3u), TXT: [cymz6_lives.txt](/txt/cymz6_lives.txt)
 
@@ -167,4 +167,4 @@
 | 161 | 风云音乐 | IPv4 直链 | <http://221.193.168.219:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 162 | 风云音乐 | IPv4 直链 | <http://221.193.168.234:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Wed Aug 06 2025 14:27:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 06 2025 16:31:22 GMT+0000 (Coordinated Universal Time)**
